@@ -1,0 +1,23 @@
+Metadata-Version: 1.1
+Name: ZOB-test-traversal
+Version: 0.0
+Summary: ZOB_test_traversal
+Home-page: UNKNOWN
+Author: UNKNOWN
+Author-email: UNKNOWN
+License: UNKNOWN
+Description-Content-Type: UNKNOWN
+Description: ZOB_test_traversal README
+        
+        
+        0.0
+        ---
+        
+        -  Initial version
+        
+Keywords: web pylons pyramid
+Platform: UNKNOWN
+Classifier: Programming Language :: Python
+Classifier: Framework :: Pyramid
+Classifier: Topic :: Internet :: WWW/HTTP
+Classifier: Topic :: Internet :: WWW/HTTP :: WSGI :: Application
